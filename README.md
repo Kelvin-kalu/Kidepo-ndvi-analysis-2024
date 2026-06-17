@@ -20,8 +20,8 @@ Kidepo-Karamoja-NDVI-Analysis/
 │   ├── KidepoNDVIMarchClassified.png    # Kidepo Valley – NDVI Classification, March 2024
 │   ├── KidepoSeptemberNDVIMap.png       # Kidepo Valley – Continuous NDVI, September 2024
 │   ├── KidepoNDVISEPClassified.png      # Kidepo Valley – NDVI Classification, September 2024
-│   ├── KaramojaNDVIMap.png              # Karamoja – NDVI & Classification (March & September)
-│   └── KarengaNDVIMap.png              # Karenga – NDVI & Classification (March & September)
+│   ├── Karamoja.jpg              # Karamoja – NDVI & Classification (March & September)
+│   └── Karenga.jpg              # Karenga – NDVI & Classification (March & September)
 │
 └── README.md
 ```
@@ -117,7 +117,7 @@ Closed vegetation now dominates the park periphery and elevated zones. Open cove
 
 Continuous NDVI and classified maps for both March and September, presented as a composite panel showing seasonal vegetation change across the sub-region.
 
-![Karamoja NDVI](maps/KaramojaNDVIMap.png)
+![Karamoja NDVI](maps/Karamoja.jpg)
 *Figure 5: Karamoja — NDVI (continuous) and NDVI Classification for March & September 2024*
 
 ---
@@ -126,7 +126,7 @@ Continuous NDVI and classified maps for both March and September, presented as a
 
 Continuous NDVI and classified maps for both March and September, showing vegetation dynamics within the Karenga conservation area.
 
-![Karenga NDVI](maps/KarengaNDVIMap.png)
+![Karenga NDVI](maps/Karenga.jpg)
 *Figure 6: Karenga — NDVI (continuous) and NDVI Classification for March & September 2024*
 
 ---
