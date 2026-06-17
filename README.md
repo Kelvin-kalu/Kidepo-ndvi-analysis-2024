@@ -81,6 +81,9 @@ The continuous NDVI raster was classified into three cover types:
 
 Kidepo Valley shows the most dramatic seasonal contrast of all three study areas. The March continuous NDVI reveals widespread low-vegetation values (orange/red) across the park core, while September shows a strong greening response across almost the entire extent.
 
+![Study Area](maps/kidepoValleyMap.png)
+*Figure 1: Kidepo Valley National Park — Study Area Map*
+
 #### March 2024 — Continuous NDVI
 Low NDVI values dominate, particularly in the central savannah zone, indicating dry season vegetation stress.
 
